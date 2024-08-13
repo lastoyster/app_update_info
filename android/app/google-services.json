@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353910422008",
+    "project_id": "read-version",
+    "storage_bucket": "read-version.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353910422008:android:3fca03e026459353dcfe0d",
+        "android_client_info": {
+          "package_name": "com.anam.version_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm701I5qN8WDhX1NBKWeZGBmHJKde1d6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
